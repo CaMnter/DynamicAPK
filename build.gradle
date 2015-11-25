@@ -2,7 +2,7 @@
 
 buildscript {
     repositories {
-        //jcenter()
+        jcenter()
         maven { url "http://mirrors.ibiblio.org/maven2"}
     }
     dependencies {
